@@ -1,6 +1,6 @@
 # MirrorSite
 
-最后更新：2023-11-27
+最后更新：2024-03-07
 
 
 
@@ -12,6 +12,10 @@
 | ChatGPT          | [Shared Chat](https://chat-shared3.zhile.io/shared.html)，免费畅爽使用 ChatGPT（免魔法）。 |
 | ↳                | [Shared Chat](https://chat-shared.zhile.io/shared.html)，免费畅爽使用 ChatGPT（需要魔法）。 |
 | ↳                | 更多内容：[https://github.com/runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) |
+|                  |                                                              |
+| ▼ **hugging face**    | **镜像网站**                                                 |
+| ---------------- | ------------------------------------------------------------ |
+| hugging face          | [https://hf-mirror.com/](https://hf-mirror.com/)，可以在国内下载hugging face的模型。 |
 |                  |                                                              |
 | ▼ **Google**     | **镜像网站**                                                 |
 | Goolge 搜索      | [https://fsoufsou.com](https://fsoufsou.com)，国内可合规使用的 Google 镜像，还支持搜索图片。 |
